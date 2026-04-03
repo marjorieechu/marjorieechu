@@ -24,7 +24,7 @@ I'm a passionate **DevOps Engineer** with a focus on automating cloud infrastruc
 ### Pinned Projects
 
 Here are some highlights of what I’ve worked on:
--  **Generative AI projects -Ollama- and Agentic AI projects for DevOps Productivity
+-  **Generative AI projects AI projects for DevOps Productivity** -Ollama
 -  **Terraform Modules**: Modular infrastructure-as-code setup for reusable cloud environments  
 -  **CI/CD Pipelines**: Automated build, test, and deploy workflows with reusable able actions  
 -  **Cost and Tag Compliance Auditing**: Lambda functions to alert on missing EC2 tags and overaged instances  

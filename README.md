@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Marjorie Echu</h1>
-<p align="center"> DevOps Engineer | AWS | Terraform | CI/CD | Kubernetes | Cloud Automation</p>
+<p align="center"> AI DevOps Engineer | AWS | Terraform | CI/CD | Kubernetes | Cloud Automation</p>
 
 ---
 

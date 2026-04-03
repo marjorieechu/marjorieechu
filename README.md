@@ -15,17 +15,18 @@ I'm a passionate **DevOps Engineer** with a focus on automating cloud infrastruc
 - **IaC Tools**: Terraform, CloudFormation, Ansible
 - **CI/CD**: GitHub Actions, Jenkins, GitLab CI
 - **Containers & Orchestration**: Docker, Kubernetes, Helm
-- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
+- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack, Loki
 - **Scripting**: Bash, Python
-- **Others**: API Gateway, Lambda, S3, Route 53
+- **Others**: Agentic AI, Generative AI, API
 
 ---
 
 ### Pinned Projects
 
 Here are some highlights of what I’ve worked on:
+-  **Generative AI projects -Ollama- and Agentic AI projects for DevOps Productivity
 -  **Terraform Modules**: Modular infrastructure-as-code setup for reusable cloud environments  
--  **CI/CD Pipelines**: Automated build, test, and deploy workflows with GitHub Actions and Jenkins  
+-  **CI/CD Pipelines**: Automated build, test, and deploy workflows with reusable able actions  
 -  **Cost and Tag Compliance Auditing**: Lambda functions to alert on missing EC2 tags and overaged instances  
 -  **Observability Stack**: Helm-based deployment of Prometheus and Grafana with custom dashboards  
 -  **Backup Automation**: Bash script for scheduled vault backups to S3 using cron + Terraform
@@ -34,7 +35,7 @@ Here are some highlights of what I’ve worked on:
 
 ### What I'm Looking For
 
--  Remote DevOps/Platform/SRE engineering roles
+-  Remote DevOps/Platform/Infrastructure/AI engineering roles
 -  Global teams solving interesting infrastructure challenges
 -  Projects focused on automation, reliability, and cloud scale
 
@@ -43,7 +44,7 @@ Here are some highlights of what I’ve worked on:
 ### Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/marjorieechu)  
-- Email: marjbogo@gmail.com  
+- Email: marjorieechu@gmail.com  
 
 ---
 
